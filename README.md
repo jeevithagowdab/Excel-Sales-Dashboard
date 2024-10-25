@@ -2,7 +2,7 @@
 ---
 
 # Sales and Customer Profit Analysis Dashboards
-
+![Masterhead](Time Analysis.png)
 ## Project Overview
 This project consists of two dashboards built using Excel that analyze **Sales Performance** and **Customer Profitability**. 
 The dashboards are designed to provide insights into key performance indicators (KPIs) like revenue, profit, product trends, and customer demographics. 
