@@ -49,7 +49,7 @@ The goal is to help businesses target more profitable products, optimize pricing
 ## Conclusion
 These dashboards are valuable tools for businesses looking to optimize product offerings, target high-value customers, and understand the dynamics of their sales across different time periods and regions. This project demonstrates how data can be leveraged effectively to drive business growth and decision-making.
 
-##Contact
+## Contact
 Reach me out if you have any questions or suggestions on how to improve this dashboard!
 
 LinkedIn: https://www.linkedin.com/in/jeevitha-gowda-2857892ba/
