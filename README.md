@@ -4,10 +4,13 @@
 # Sales and Customer Profit Analysis Dashboards
 
 ## Project Overview
-This project consists of two dashboards built using Excel that analyze **Sales Performance** and **Customer Profitability**. The dashboards are designed to provide insights into key performance indicators (KPIs) like revenue, profit, product trends, and customer demographics. The visualizations enable better decision-making by highlighting patterns in sales, product demand, and customer preferences.
+This project consists of two dashboards built using Excel that analyze **Sales Performance** and **Customer Profitability**. 
+The dashboards are designed to provide insights into key performance indicators (KPIs) like revenue, profit, product trends, and customer demographics. 
+The visualizations enable better decision-making by highlighting patterns in sales, product demand, and customer preferences.
 
 ## Problem Statement
-Businesses with large datasets often struggle to identify critical trends and profit patterns, especially when dealing with diverse products and customers across multiple regions and time periods. Without clear visualizations, it can be challenging to determine where the company is performing well or where there is room for improvement.
+Businesses with large datasets often struggle to identify critical trends and profit patterns, especially when dealing with diverse products and customers across multiple regions and time periods.
+Without clear visualizations, it can be challenging to determine where the company is performing well or where there is room for improvement.
 
 ## Solution
 This project solves the problem by creating two interactive dashboards that focus on:
@@ -45,5 +48,11 @@ The goal is to help businesses target more profitable products, optimize pricing
 
 ## Conclusion
 These dashboards are valuable tools for businesses looking to optimize product offerings, target high-value customers, and understand the dynamics of their sales across different time periods and regions. This project demonstrates how data can be leveraged effectively to drive business growth and decision-making.
+
+##Contact
+Reach me out if you have any questions or suggestions on how to improve this dashboard!
+
+LinkedIn: https://www.linkedin.com/in/jeevitha-gowda-2857892ba/
+Email: jeevithagowdab@gmail.com
 
 ---
